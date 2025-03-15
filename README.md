@@ -10,10 +10,10 @@ Im interested in coding, and I'm currently working on <a href="https://polled.le
   - Coding
     - HTML, JS, CSS, PHP, python, java, and kotlin <img width="20" src="code_24dp_007BFF_FILL0_wght400_GRAD0_opsz24.png">
   - Photographing
-    - Mostly nature
+    - Mostly nature 🌳
   - Electronics
-    - Most of the time with arduino, esp32, or raspberry pi's
+    - Most of the time with arduino, esp32, or raspberry pi's <img width="20" src="memory_24dp_007BFF_FILL0_wght400_GRAD0_opsz24.png">
   - Making absurd projects
-    - My plan is to build an ironman suit one day, silly right?
+    - My plan is to build an ironman suit one day, silly right? ⁉️
   - 3D printing
-    - 3D printing with my 3D printer, (if interested, i have the Ender-3 Neo)
+    - 3D printing with my 3D printer, (if interested, i have the Ender-3 Neo) <img width="20" src="deployed_code_24dp_007BFF_FILL0_wght400_GRAD0_opsz24.png">
