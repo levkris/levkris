@@ -8,7 +8,7 @@ Im interested in coding, and I'm currently working on <a href="https://polled.le
 
 ### I am intrested in: 
   - Coding
-    - HTML, JS, CSS, PHP, python, java, and kotlin
+    - HTML, JS, CSS, PHP, python, java, and kotlin <img width="20" src="code_24dp_007BFF_FILL0_wght400_GRAD0_opsz24.png">
   - Photographing
     - Mostly nature
   - Electronics
