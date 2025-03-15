@@ -18,4 +18,3 @@ Im interested in coding, and I'm currently working on <a href="https://polled.le
   - 3D printing
     - 3D printing with my 3D printer, (if interested, i have the Ender-3 Neo) <img width="20" src="deployed_code_24dp_007BFF_FILL0_wght400_GRAD0_opsz24.png">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=levkris&show_icons=true&theme=dark)
