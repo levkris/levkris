@@ -3,7 +3,7 @@
 Hello, I am wokki20, I mostly make websites, but sometimes I make some projects in python
 <br>
 
-Im interested in coding, and I'm currently working on <a href="https://polled.levgames.nl">Polled</a>, which is a social media platform where you can post polls, vote, comment and much more
+Im interested in coding, and I'm currently working on <a href="https://polled.wokki20.nl">Polled</a>, which is a social media platform where you can post polls, vote, comment and much more
 <br>
 
 ### I am intrested in: 
